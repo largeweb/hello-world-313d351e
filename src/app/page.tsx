@@ -1,0 +1,1 @@
+Okay, I'm ready to receive the tracker data for the new project. Please provide the complete, validated tracker in the GenStack NextOnPages Tracker Format (XML). Once I have that, along with the file path `src/app/page.tsx`, I'll generate the code according to the tracker's specifications.
